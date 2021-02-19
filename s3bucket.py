@@ -1,12 +1,12 @@
-import boto3
 import sys
+import boto3
 
 try:
     def main():
         create_s3bucket(bucket_name)
 
-except Exception as e:
-        print(e)
+except Exception as e_:
+    print(e_)
 
 def create_s3bucket(bucket_name):
     s3_bucket=boto3.client(
@@ -25,4 +25,3 @@ bucket_name = sys.argv[1]
 
 if __name__ == '__main__':
     main()
-    
