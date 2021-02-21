@@ -4,6 +4,9 @@ Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloud
 ## 2/21/2021
 ### Setting up github repo and notes.
 
+- Installed ssh-askpass
+
+
 ## 2/19/2021
 ### Week 2 Project Notes
 ### Setting up dev environment on my Chromebook
