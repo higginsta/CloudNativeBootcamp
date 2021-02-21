@@ -5,7 +5,7 @@ Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloud
 ### Setting up github repo and notes.
 
 - Installed ssh-askpass
-
+  - The x11 app prompted be to authorize the new host, but apparently it didn't have permission. I was able to manually approve it from the commandline, going to see if this update is properly pushed. S 
 
 ## 2/19/2021
 ### Week 2 Project Notes
