@@ -4,8 +4,15 @@ Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloud
 ## 2/21/2021
 ### Setting up github repo and notes.
 
+**Configuring VSCode with Github**
+- Local commits work right off the bat, but I cannot push to Github (which I inited with GitKraken)
+```
+ git pull --tags origin master ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory Host key verification failed. fatal: Could not read from remote repository.
+ ```
 - Installed ssh-askpass
-  - The x11 app prompted be to authorize the new host, but apparently it didn't have permission. I was able to manually approve it from the commandline, going to see if this update is properly pushed. S 
+  - The x11 app prompted be to authorize the new host, but apparently it doesn't have permission to write to the known_hosts file5. I was able to manually approve it from the commandline, going to see if this update is properly pushed. 
+
+
 
 ## 2/19/2021
 ### Week 2 Project Notes
