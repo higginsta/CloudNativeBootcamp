@@ -3,9 +3,18 @@
 Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloudskills.io/products/cloud-native-devops-bootcamp/) course. 
 
 ## 2/19/2021
+### Week 2 Project Notes
+### Setting up dev environment on my Chromebook
+- Update the VM
+  - Uninstall Python 2.7
+  - Install Python 3
+    - Install pip, pylint
+  - install Powershell 7.1.2
+  - Install AWS cli
+  - Install Azure cli
+  
 
 ## 2/17/2021
-
 ### Week 2 Lecture, Scripting like a developer
 
 - Check out how to setup up billing alerts for AWS and Azure.
