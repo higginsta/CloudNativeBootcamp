@@ -1,6 +1,8 @@
 # CloudNativeBootcamp
 
 Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloudskills.io/products/cloud-native-devops-bootcamp/) course. 
+## 2/21/2021
+### Setting up github repo and notes.
 
 ## 2/19/2021
 ### Week 2 Project Notes
