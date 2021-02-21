@@ -2,6 +2,22 @@
 
 Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloudskills.io/products/cloud-native-devops-bootcamp/) course. 
 
+## 2/19/2021
+
+## 2/17/2021
+
+### Week 2 Lecture, Scripting like a developer
+
+- Check out how to setup up billing alerts for AWS and Azure.
+
+- Since I am using a Chromebook I need to setup up the Linux VM
+  - Run updates
+    -VM
+    - VS Code
+    - GitKraken
+  - Install the cli tools for AWS and Azure
+
+- There is a lot in this lecture - rewatch!
 
 
 ## 2/11/2021
