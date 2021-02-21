@@ -4,6 +4,11 @@ Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloud
 ## 2/21/2021
 ### Setting up github repo and notes.
 
+
+
+**Configuring Gitkraken**
+- Straightforward setup
+
 **Configuring VSCode with Github**
 - Local commits work right off the bat, but I cannot push to Github (which I inited with GitKraken)
 ```
@@ -15,16 +20,6 @@ Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloud
 
 
 ## 2/19/2021
-### Week 2 Project Notes
-### Setting up dev environment on my Chromebook
-- Update the VM
-  - Uninstall Python 2.7
-  - Install Python 3
-    - Install pip, pylint
-  - install Powershell 7.1.2
-  - Install AWS cli
-  - Install Azure cli
-  
 
 ## 2/17/2021
 ### Week 2 Lecture, Scripting like a developer
@@ -39,6 +34,26 @@ Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloud
   - Install the cli tools for AWS and Azure
 
 - There is a lot in this lecture - rewatch!
+
+### Week 2 Project Notes
+**Setting up dev environment on my Chromebook**
+- Update the VM
+  - Uninstall Python 2.7
+  - Install Python 3
+    - Install pip, pylint
+  - install Powershell 7.1.2
+  - Install AWS cli
+  - Install Azure cli
+  - Update VS Code
+  - Update GitKraken
+
+**Reusuable and clean Python code**
+[s3bucket.py](s3bucket.py)
+
+- I have to use pip3 instead of pip
+- Install boto3 client
+- Configured the AWS cli (I set the default region to be something other an us-east-1)
+
 
 
 ## 2/11/2021
