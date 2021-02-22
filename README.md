@@ -1,6 +1,10 @@
 # CloudNativeBootcamp
 
 Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloudskills.io/products/cloud-native-devops-bootcamp/) course. 
+
+## 2/22/2021
+
+
 ## 2/21/2021
 ### Setting up github repo and notes.
 
@@ -13,18 +17,18 @@ Projects from cloudskills.io [Cloud Native DevOps Bootcamp](https://portal.cloud
  git pull --tags origin master ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory Host key verification failed. fatal: Could not read from remote repository.
  ```
 - Installed ssh-askpass
-  - The x11 app prompted be to authorize the new host, but apparently it doesn't have permission to write to the known_hosts file5. I was able to manually approve it from the commandline, going to see if this update is properly pushed. 
+  - The x11 app prompted me to authorize the new host, but apparently it doesn't have permission to write to the known_hosts file5. I was able to manually approve it from the commandline, going to see if this update is properly pushed. 
 
 ## 2/19/2021
 **Reusuable and clean Python code**
-###[s3bucket.py](s3bucket.py)
+[s3bucket.py](s3bucket.py)
 
 I was on the right track about LocationConstraint, I just had it in the wrong spot:
 
 ```    CreateBucketConfiguration={'LocationConstraint':'us-east-2'},```
 
-**reusuable and clean PowerShell code**
-###[New-Resource-Group.ps1](New-Resource-Group.ps1)
+**Reusuable and clean PowerShell code**
+[New-Resource-Group.ps1](New-Resource-Group.ps1)
 
 - TIL that there is a difference between the az cli and the AZ PowerShell module. It took me a couple of minutes to figure out. I needed to install and configure the PowerShell AZ Module for the example function in the video to work as expected.
 
@@ -33,6 +37,7 @@ I was on the right track about LocationConstraint, I just had it in the wrong sp
  - run pylint from the cli to get verbose info, or just use the builtin linting is VS code (which seems to be more forgiving)
 **PowerShell**
 - PSScriptAnalyzer
+
 ## 2/17/2021
 ### Week 2 Lecture, Scripting like a developer
 
@@ -60,7 +65,7 @@ I was on the right track about LocationConstraint, I just had it in the wrong sp
   - Update GitKraken
 
 **Reusuable and clean Python code**
-###[s3bucket.py](s3bucket.py)
+[s3bucket.py](s3bucket.py)
 
 - I have to use pip3 instead of pip
 - Install boto3 client
